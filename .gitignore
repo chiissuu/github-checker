@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+resultados/
+personas_que_no_te_siguen_de_vuelta_github_*
+.informe-*.tmp
+unfollow_*.jsonl
